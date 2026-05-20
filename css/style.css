@@ -826,3 +826,12 @@ footer {
 .back-home:hover {
     text-decoration: underline;
 }
+
+
+/* Custom Logo Image Styling */
+.logo-img {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    object-fit: cover;
+}
